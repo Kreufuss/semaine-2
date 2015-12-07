@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -29,10 +30,10 @@
             <li>déc. 09 – janv. 10 - G.A.E.C le chant de la terre – LA BRUFFIÈRE (85) - Ouvrier agricole</li>
             <li>avril - juillet 09 - Centre de loisirs – NASSANDRES (27) - Animateur</li>
             <li>mars 09 – juin 10 - École primaire publique – NASSANDRES (27) -	Aide de vie scolaire</li>
-            <li>octobre 11 - S.C.E.A Crecy – Moisville (27) - Ouvrier agricole</li>
-            <li>nov.-décembre 11 - Collège Guillaume – Conches (27) - Surveillant</li>
-            <li>avril-juin 12 - G.A.E.C Milliot – Cherbonnières (17) - Apiculteur</li>
-            <li>janv 13-sept 15 - ollège J. Prévert – Domfront (61) - Assistant d'éducation</li>
+            <li>octobre 11 - S.C.E.A Crecy – MOISVILLE (27) - Ouvrier agricole</li>
+            <li>nov.-décembre 11 - Collège Guillaume – CONCHES (27) - Surveillant</li>
+            <li>avril-juin 12 - G.A.E.C Milliot – CHERBONNIERES (17) - Apiculteur</li>
+            <li>janv 13-sept 15 - ollège J. Prévert – DOMFRONT (61) - Assistant d'éducation</li>
         </ul>
 </main>
 <footer>
